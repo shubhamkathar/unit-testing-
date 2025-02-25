@@ -1,4 +1,4 @@
-Automated Unit Test Case Generator using genAI application <br>
+# Automated Unit Test Case Generator using genAI application <br>
 This Python script automates the process of generating unit test cases using Google's Gemini AI. Given a Python script as input, it:
 Extracts the code from the file.
 Generates all possible test cases using the Gemini API.
